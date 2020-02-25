@@ -27,6 +27,5 @@ There are four different tables:
 # Overview
 ![Login Page](Project/images/Screenshot/Login%20Page.PNG)
 ![Home Page](Project/images/Screenshot/home1.PNG)
-![](Project/images/Screenshot/home2.PNG)
 ![Menu](Project/images/Screenshot/menu.PNG)
 ![Cart](Project/images/Screenshot/cart.PNG)
